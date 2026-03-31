@@ -210,7 +210,7 @@
         "decoyed"
       ],
       "ability": "Setup: After placing forces, assign the Decoyed condition to 1 friendly ship other than Naboo Handmaiden.",
-      "cost": 31,
+      "cost": 29,
       "slots": [
         "Talent",
         "Sensor",
