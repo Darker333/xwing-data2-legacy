@@ -20,7 +20,7 @@
       }
     ],
     "cost": {
-      "value": 3
+      "value": 4
     },
     "restrictions": [
       {
@@ -165,7 +165,7 @@
     "cost": {
       "variable": "size",
       "values": {
-        "Small": 3,
+        "Small": 2,
         "Medium": 4,
         "Large": 7
       }

@@ -1170,7 +1170,7 @@
       }
     ],
     "cost": {
-      "value": 6
+      "value": 5
     },
     "restrictions": [
       {
@@ -1995,7 +1995,7 @@
       }
     ],
     "cost": {
-      "value": 4
+      "value": 3
     },
     "restrictions": [
       {
@@ -2190,7 +2190,7 @@
       }
     ],
     "cost": {
-      "value": 5
+      "value": 4
     },
     "restrictions": [
       {
@@ -2266,7 +2266,7 @@
       }
     ],
     "cost": {
-      "value": 5
+      "value": 4
     },
     "restrictions": [
       {
@@ -4290,7 +4290,7 @@
       }
     ],
     "cost": {
-      "value": 1
+      "value": 3
     },
     "restrictions": [
       {

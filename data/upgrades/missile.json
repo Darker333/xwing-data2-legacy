@@ -374,16 +374,7 @@
       }
     ],
     "cost": {
-      "variable": "initiative",
-      "values": {
-        "0": 4,
-        "1": 4,
-        "2": 4,
-        "3": 5,
-        "4": 5,
-        "5": 5,
-        "6": 5
-      }
+      "value": 4
     },
     "standard": true,
     "wildspace": true,

@@ -343,7 +343,7 @@
       }
     ],
     "cost": {
-      "value": 5
+      "value": 3
     },
     "restrictions": [
       {
@@ -373,7 +373,7 @@
       }
     ],
     "cost": {
-      "value": 3
+      "value": 2
     },
     "restrictions": [
       {
@@ -729,7 +729,7 @@
       }
     ],
     "cost": {
-      "value": 5
+      "value": 4
     },
     "restrictions": [
       {

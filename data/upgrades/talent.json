@@ -241,7 +241,7 @@
       }
     ],
     "cost": {
-      "value": 1
+      "value": 2
     },
     "restrictions": [
       {
@@ -301,7 +301,7 @@
       }
     ],
     "cost": {
-      "value": 1
+      "value": 2
     },
     "restrictions": [
       {
@@ -665,7 +665,7 @@
       }
     ],
     "cost": {
-      "value": 4
+      "value": 3
     },
     "standard": true,
     "wildspace": true,
@@ -757,13 +757,13 @@
     "cost": {
       "variable": "initiative",
       "values": {
-        "0": 15,
-        "1": 15,
-        "2": 15,
+        "0": 12,
+        "1": 12,
+        "2": 12,
         "3": 15,
         "4": 15,
-        "5": 16,
-        "6": 17
+        "5": 15,
+        "6": 15
       }
     },
     "restrictions": [
@@ -1176,17 +1176,8 @@
         "image": "https://raw.githubusercontent.com/SogeMoge/x-wing2.0-project-goldenrod/2.0-legacy/src/images/En/upgrades/tierfonbellyrun.png"
       }
     ],
-    "cost": {
-      "variable": "initiative",
-      "values": {
-        "0": 0,
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 1,
-        "5": 1,
-        "6": 1
-      }
+    "cost":  {
+      "value": 0
     },
     "restrictions": [
       {
