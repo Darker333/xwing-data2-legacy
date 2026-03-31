@@ -82,7 +82,7 @@
       "name": "Baron of the Empire",
       "initiative": 3,
       "limited": 0,
-      "cost": 30,
+      "cost": 31,
       "xws": "baronoftheempire",
       "text": "Sienar Fleet System's TIE Advanced v1 is a groundbreaking starfighter design, featuring upgraded engines, a missile launcher, and folding s-foils.",
       "image": "https://raw.githubusercontent.com/SogeMoge/x-wing2.0-project-goldenrod/2.0-legacy/src/images/En/pilots/baronoftheempire.png",

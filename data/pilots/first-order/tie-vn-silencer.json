@@ -98,7 +98,7 @@
       "caption": "Tormented Apprentice",
       "initiative": 5,
       "limited": 1,
-      "cost": 79,
+      "cost": 78,
       "ability": "After you defend, you may spend 1 [Force] to assign the I'll Show You the Dark Side condition to the attacker.",
       "force": {
         "value": 2,

@@ -134,7 +134,7 @@
       "name": "Spice Runner",
       "initiative": 1,
       "limited": 0,
-      "cost": 26,
+      "cost": 27,
       "xws": "spicerunner",
       "text": "Though its cargo space is limited compared to other light freighters, the small, swift HWK-290 is a favorite choice of smugglers who specialize in discreetly transporting precious goods.",
       "image": "https://raw.githubusercontent.com/SogeMoge/x-wing2.0-project-goldenrod/2.0-legacy/src/images/En/pilots/spicerunner.png",

@@ -117,7 +117,7 @@
       "caption": "Death Squadron Veteran",
       "initiative": 3,
       "limited": 1,
-      "cost": 45,
+      "cost": 46,
       "xws": "lieutenantsai",
       "ability": "After you a perform a [Coordinate] action, if the ship you chose performed an action on your action bar, you may perform that action.",
       "image": "https://raw.githubusercontent.com/SogeMoge/x-wing2.0-project-goldenrod/2.0-legacy/src/images/En/pilots/lieutenantsai.png",

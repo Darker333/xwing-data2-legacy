@@ -72,7 +72,7 @@
       "caption": "Din Djarin",
       "initiative": 5,
       "limited": 1,
-      "cost": 49,
+      "cost": 50,
       "xws": "themandalorian",
       "slots": [
         "Talent",
@@ -100,7 +100,7 @@
       "caption": "Zero",
       "initiative": 5,
       "limited": 1,
-      "cost": 50,
+      "cost": 51,
       "xws": "q90",
       "slots": [
         "Talent",

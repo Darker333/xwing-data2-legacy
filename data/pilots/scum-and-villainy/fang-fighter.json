@@ -175,7 +175,7 @@
       "name": "Skull Squadron Pilot",
       "initiative": 4,
       "limited": 0,
-      "cost": 44,
+      "cost": 45,
       "xws": "skullsquadronpilot",
       "text": "The aces of Skull Squadron favor an aggressive approach, using their craft's pivot wing technology to achieve unmatched agility in the pursuit of their quarry.",
       "image": "https://raw.githubusercontent.com/SogeMoge/x-wing2.0-project-goldenrod/2.0-legacy/src/images/En/pilots/skullsquadronpilot.png",

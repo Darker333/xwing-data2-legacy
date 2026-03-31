@@ -236,7 +236,7 @@
       "initiative": 3,
       "limited": 1,
       "xws": "netrempollard",
-      "cost": 42,
+      "cost": 41,
       "ability": "After you barrel roll, you may choose 1 friendly ship that is not stressed at range 0-1. That ship gains 1 stress token, then you rotate 180°.",
       "slots": [
         "Talent",
@@ -320,7 +320,7 @@
       "xws": "adonfox-battleoverendor-lsl",
       "initiative": 1,
       "limited": 1,
-      "cost": 46,
+      "cost": 44,
       "ability": "While you defend, if you are stressed, roll 1 additional defense die.",
       "shipAbility": {
         "name": "Gyro-Cockpit",

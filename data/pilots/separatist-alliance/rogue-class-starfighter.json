@@ -87,7 +87,7 @@
       "caption": "On His Own Time",
       "initiative": 5,
       "limited": 1,
-      "cost": 45,
+      "cost": 44,
       "charges": {
         "value": 1,
         "recovers": 0
@@ -120,7 +120,7 @@
       "caption": "Needs No Introduction",
       "initiative": 4,
       "limited": 1,
-      "cost": 42,
+      "cost": 41,
       "xws": "cadbane-separatistalliance",
       "slots": [
         "Talent",

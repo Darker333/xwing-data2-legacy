@@ -183,7 +183,7 @@
     {
       "name": "Flight Leader Ubbel",
       "caption": "Onyx Leader",
-      "cost": 43,
+      "cost": 42,
       "initiative": 5,
       "limited": 1,
       "slots": [

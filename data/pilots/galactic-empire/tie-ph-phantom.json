@@ -96,7 +96,7 @@
       "caption": "Soft-Spoken Slayer",
       "initiative": 5,
       "limited": 1,
-      "cost": 60,
+      "cost": 59,
       "xws": "whisper",
       "ability": "After you perform an attack that hits, gain 1 evade token.",
       "image": "https://raw.githubusercontent.com/SogeMoge/x-wing2.0-project-goldenrod/2.0-legacy/src/images/En/pilots/whisper.png",
@@ -232,7 +232,7 @@
       "caption": "Unseen Assailant",
       "initiative": 5,
       "limited": 1,
-      "cost": 57,
+      "cost": 61,
       "charges": {
         "value": 2,
         "recovers": 0
@@ -287,7 +287,7 @@
       "caption": "Copycat",
       "initiative": 4,
       "limited": 1,
-      "cost": 48,
+      "cost": 53,
       "charges": {
         "value": 1,
         "recovers": 1

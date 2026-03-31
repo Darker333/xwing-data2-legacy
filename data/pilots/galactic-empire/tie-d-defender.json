@@ -212,7 +212,7 @@
       "caption": "Arrogant Ace",
       "initiative": 5,
       "limited": 1,
-      "cost": 76,
+      "cost": 75,
       "xws": "vultskerris",
       "ability": "Action: Gain 1 strain token to recover 1 [Charge]. Before you engage, you may spend 1 [Charge] to perform an action.",
       "shipAbility": {

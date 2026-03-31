@@ -64,7 +64,7 @@
       "caption": "Dependable Closer",
       "initiative": 2,
       "limited": 1,
-      "cost": 25,
+      "cost": 24,
       "xws": "killer",
       "ability": "While you perform an attack, if the defender has 2 or fewer hull remaining, you may roll 1 additional attack die. If you do, gain 1 deplete token after rolling attack dice.",
       "shipAbility": {
@@ -89,7 +89,7 @@
       "caption": "CT-1020",
       "initiative": 3,
       "limited": 1,
-      "cost": 30,
+      "cost": 29,
       "xws": "drift",
       "ability": "While a friendly ship at range 0-1 performs an attack, if you have exactly 1 non-lock red token or exactly 1 orange token, that ship may reroll 1 attack die.",
       "shipAbility": {
@@ -115,7 +115,7 @@
       "caption": "CT-4860",
       "initiative": 3,
       "limited": 1,
-      "cost": 25,
+      "cost": 24,
       "xws": "boost",
       "ability": "At the start of the Engagement Phase, if there is a friendly ship at range 0-1 whose revealed maneuver is blue, you may perform a [Boost] action.",
       "shipAbility": {
@@ -141,7 +141,7 @@
       "caption": "Scrappy Flier",
       "initiative": 3,
       "limited": 1,
-      "cost": 30,
+      "cost": 29,
       "xws": "stub",
       "ability": "While you defend, if the speed of your revealed maneuver is even, roll 1 additional defende die. While you perform a primary attack, if the speed of your revealed maneuver is odd, roll 1 additional attack die.",
       "shipAbility": {
@@ -220,7 +220,7 @@
       "name": "7th Sky Corps Pilot",
       "initiative": 2,
       "limited": 0,
-      "cost": 22,
+      "cost": 23,
       "xws": "7thskycorpspilot",
       "text": "",
       "shipAbility": {
@@ -270,7 +270,7 @@
       "caption": "Evasive Aviator",
       "initiative": 4,
       "limited": 1,
-      "cost": 26,
+      "cost": 25,
       "xws": "slider",
       "ability": "When you reveal a [2 [Bank Left]] or [2 [Bank Right]] maneuver, you may spend 2 [Charge] to execute it as a sideslip.",
       "charges": {
